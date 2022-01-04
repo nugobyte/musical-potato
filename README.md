@@ -1,7 +1,10 @@
 # Musical Potato
 
-Desc >_>
+[             ]
 
 ## Introduction
 
-SADJSAJDNKJASD
+[             ]
+
+## Guide
+https://guides.github.com/features/mastering-markdown/
