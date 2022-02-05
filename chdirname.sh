@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # ↑ That's the interpreter path
 <<_
 USE
@@ -16,7 +16,11 @@ WHY
 DOCS
  https://bash.cyberciti.biz/guide/Main_Page
  https://www.ieee.org/publications/index.html
-_
+CAVEATS
+ This does not work without spaces (i.e., Dir1) -> I'll fix that someday idk
+ The proper way is:
+ "<Dir-name> <some-abitrary-value>"
+-
 
 #Prompt
 echo "Do you want to change dir(s) name(s) $1 to $2: "; read i;
